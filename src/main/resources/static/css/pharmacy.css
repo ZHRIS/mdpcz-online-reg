@@ -1,0 +1,11 @@
+.hide-item{
+    display: none;
+}
+
+.show-item{
+    text-overline-color: red;
+}
+
+#patientTable tr:hover {
+    background-color: #ccc;
+}
